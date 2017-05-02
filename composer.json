@@ -1,6 +1,6 @@
 {
     "name": "paulmenheere/bootstrap-form",
-    "description": "Laravel 5 form wrappers for Bootstrap 3.",
+    "description": "Laravel 5 form wrappers for Bootstrap 3. Copy from",
     "keywords": ["laravel", "form", "bootstrap"],
     "license": "MIT",
     "version": "1.0.0",
