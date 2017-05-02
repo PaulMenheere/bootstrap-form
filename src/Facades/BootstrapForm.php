@@ -1,19 +1,18 @@
-<?php
-namespace PaulMenheere\FormBootstrap\Facades;
+<?php 
+
+namespace PaulMenheere\BootstrapForm\Facades;
 
 use Illuminate\Support\Facades\Facade;
 
-class FormBootstrap extends Facade
+class BootstrapForm extends Facade
 {
     /**
      * Get the registered name of the component.
      *
      * @return string
-     *
-     * @throws \RuntimeException
      */
     protected static function getFacadeAccessor()
     {
-        return 'formbootstrap';
+        return 'bootstrap_form';
     }
 }
